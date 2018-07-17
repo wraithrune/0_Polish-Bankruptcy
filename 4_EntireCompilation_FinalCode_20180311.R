@@ -2,9 +2,9 @@
 # *** Mission Logs ***
 # Polish companies bankruptcy data Data Set. (n.d.). Retrieved February 09, 2018, 
 # from https://archive.ics.uci.edu/ml/datasets/Polish companies bankruptcy data
-# .....¯\_(o,O)_/¯
+# .....Â¯\_(o,O)_/Â¯
 # Explorers: Yong Lester Monar, Gerry Anggacipta, Tew Boon Teck, Yong Jun Jie, Ho Wei Jing
-# Coder: Wei Jing
+# Coders: Jun Jie, Wei Jing
 #-----------------------------------------------------------------------------------------
 
 #-----------------------------------------------------------------------------------------#
